@@ -48,7 +48,7 @@ nav {
   position: sticky;
   top: 0;
   z-index: 1000;
-  background: #1F1F1F;
+  background: #2692d0;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -112,7 +112,7 @@ nav a:hover::after {
 }
 
 .hero-text button {
-  background: #1F1F1F;
+  background: #2692d0;
   color: #fff;
   border: none;
   padding: 12px 24px;
@@ -315,7 +315,7 @@ footer {
 
 /* NAVIGATION BAR */
 .main-nav {
-  background: #1F1F1F;
+  background: #2692d0;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -387,9 +387,9 @@ footer {
 }
 
 .tab.active {
-  background: #1F1F1F;
+  background: #2692d0;
   color: #fff;
-  border-color: #1F1F1F;
+  border-color: #2692d0;
 }
 
 /* Card Grid */
