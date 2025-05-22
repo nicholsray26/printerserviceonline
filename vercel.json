@@ -1,17 +1,17 @@
 {
   "rewrites": [
+    { "source": "/", "destination": "/index.html" },
     { "source": "/about", "destination": "/about.html" },
     { "source": "/contact", "destination": "/contact.html" },
-    { "source": "/solutions", "destination": "/solutions.html" },
     { "source": "/faq", "destination": "/faq.html" },
     { "source": "/disclaimer", "destination": "/disclaimer.html" },
     { "source": "/privacy", "destination": "/privacy.html" },
     { "source": "/terms", "destination": "/terms.html" },
-    { "source": "/", "destination": "/index.html" }
+    { "source": "/solutions", "destination": "/solutions.html" },
 
-    { "source": "/computer-printer", "destination": "/computer-printer.html" },
-    { "source": "/connect-printer", "destination": "/connect-printer.html" },
-    { "source": "/setting-up", "destination": "/setting-up.html" },
-    { "source": "/updates", "destination": "/updates.html" },
+    { "source": "/computer-printer", "destination": "/pages/computer-printer/index.html" },
+    { "source": "/connect-printer", "destination": "/pages/connect-printer/index.html" },
+    { "source": "/setting-up", "destination": "/pages/setting-up/index.html" },
+    { "source": "/updates", "destination": "/pages/updates/index.html" }
   ]
 }
