@@ -8,10 +8,5 @@
     { "source": "/privacy", "destination": "/privacy.html" },
     { "source": "/terms", "destination": "/terms.html" },
     { "source": "/solutions", "destination": "/solutions.html" },
-
-    { "source": "/computer-printer", "destination": "/pages/computer-printer/index.html" },
-    { "source": "/connect-printer", "destination": "/pages/connect-printer/index.html" },
-    { "source": "/setting-up", "destination": "/pages/setting-up/index.html" },
-    { "source": "/updates", "destination": "/pages/updates/index.html" }
   ]
 }
