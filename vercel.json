@@ -8,5 +8,10 @@
     { "source": "/privacy", "destination": "/privacy.html" },
     { "source": "/terms", "destination": "/terms.html" },
     { "source": "/solutions", "destination": "/solutions.html" },
+    
+    { "source": "/services", "destination": "/services.html" },
+    { "source": "/connect-printer", "destination": "/prconnect-printer.html" },
+    { "source": "/setting-up", "destination": "/setting-up.html" },
+    { "source": "/update", "destination": "/update.html" },
   ]
 }
